@@ -1,0 +1,7 @@
+Dataset link: 
+
+https://www.kaggle.com/datasets/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
+
+Data Notes:
+
+1. Columns with missing/NaN values are denoted by a value of 97,98,99
